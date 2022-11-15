@@ -27,10 +27,4 @@ Then use curl to upload a file to [Storj](https://storj.io)
 curl -X PUT --data-binary @storj-tree.png -H 'Content-Type: image/png' <presigned url>
 ```
 
-# Frontend code
-
-In addition to curl you can also upload using a static site site in the browser.
-
-https://github.com/amozoss/storj-s3-presign-react
-
 
