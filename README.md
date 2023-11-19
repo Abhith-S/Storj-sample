@@ -1,5 +1,5 @@
 # Storj-sample
-Simple app using reactjs at frontend and nodejs at backend that stores files onto the Storj Decentralized Cloud Storage (DCS).
+App using reactjs at frontend and nodejs at backend that stores files onto the Storj Decentralized Cloud Storage (DCS).
 
 # Walk through video
 
